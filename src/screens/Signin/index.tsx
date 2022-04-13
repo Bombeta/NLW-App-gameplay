@@ -23,7 +23,7 @@ export function Signin(){
 
             <View style={styles.content}>
                 <Text style={styles.title}>
-                    Oragnize {'\n'}
+                    Organize {'\n'}
                     suas jogatinas {'\n'}
                     facilmente
                 </Text>
